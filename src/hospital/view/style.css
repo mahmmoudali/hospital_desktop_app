@@ -1,0 +1,37 @@
+
+#main{
+    -fx-background-image: url("ali.jpg");
+    -fx-background-size: cover;
+} 
+Label{
+    -fx-font-size: 15px;
+    -fx-text-fill: #ffffff;
+    
+} 
+#message{
+    -fx-text-fill: #ffffff;
+
+    -fx-background-color: #000000;
+}
+#log{
+    -fx-background-color: #0099cc;
+        -fx-text-fill: #ffffff;
+}
+Button{
+    -fx-text-fill: #ffffff;
+    -fx-background-color: #990000;
+}
+#button{
+    -fx-background-color: #990000;
+}
+#back{
+    -fx-background-color: #0099cc;
+}
+#add{
+    -fx-text-fill: #ffffff;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+}
+#search{
+    -fx-background-color: #0099cc;
+}
